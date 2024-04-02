@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyToDo</string>
+    <string name="not_forgot">Not Forgot</string>
+    <string name="main_background_man_with_cocktail">main background man with cocktail</string>
+    <string name="have_nice_rest">Хорошего отдыха!</string>
+    <string name="u_have_no_task">Пока что у вас нет никаких дел.</string>
+    <string name="add_task_button">Add task button</string>
+    <string name="task">Задачи</string>
+    <string name="back">Back</string>
+    <string name="add_task">Добавить заметку</string>
+    <string name="title">Заголовок</string>
+    <string name="save">Сохранить</string>
+    <string name="edit_task">Изменить заметку</string>
+    <string name="one_task">Заметка</string>
+</resources>
